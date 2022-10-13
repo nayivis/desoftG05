@@ -1,0 +1,257 @@
+@media(min-width: 1200px){
+
+h1{
+	text-align: center;
+	color: blue;
+
+
+}
+#cuerpo{
+	width: 1000px;
+	margin: 10px auto;
+	padding: 5px auto;
+	border:1;
+	color: blue;
+
+
+}
+
+#candidato{
+	font-variant-ligatures: cursive;
+	color: blue;
+	text-align:justify;
+	line-height: 1.5;
+	border: 2;
+	vertical-align: center;
+
+}
+
+p{
+	font-variant-ligatures: cursive;
+	color: blue;
+
+}
+
+td{
+	
+	width: 200;
+
+}
+
+th{
+	font-variant-ligatures: cursive;
+	color: red;
+	text-align:center;
+	
+}
+
+#foto1{
+	font-variant-ligatures: cursive;
+	color: red;
+	text-align:left;
+	
+}
+#foto2{
+	font-variant-ligatures: cursive;
+	color: red;
+	text-align:left;
+	
+}
+#foto3{
+	font-variant-ligatures: cursive;
+	color: red;
+	text-align:left;
+	
+}
+#foto4{
+	font-variant-ligatures: cursive;
+	color: red;
+	text-align:left;
+	
+}
+
+
+#candidato1{
+	font-variant-ligatures: cursive;
+	color: blue;
+	text-align:left;
+	
+}
+
+#candidato2{
+	font-variant-ligatures: cursive;
+	color: blue;
+	text-align:left;
+	
+}
+
+#candidato3{
+	font-variant-ligatures: cursive;
+	color: blue;
+	text-align:left;
+	
+}
+#candidato4{
+	font-variant-ligatures: cursive;
+	color: blue;
+	text-align:left;
+	
+}
+
+
+
+#descipcion{
+	width: 500px;
+	margin: 2px auto;
+	padding: 2px auto;
+	float: center;
+	font-size: 70px;
+	
+}
+
+
+#contenido{
+	width: 1000px;
+	margin: 2px auto;
+	padding: 2px auto;
+	float: left;
+	color: blue;
+
+}
+
+#imagenaside{
+	width: 800px;
+	margin: 2px auto;
+	padding: 2px auto;
+	text-align: center;
+	float: center;
+
+
+}
+
+
+
+.imagen{
+	width: 800px;
+	margin: 2px auto;
+	padding: 2px auto;
+	float: center;
+	align-content: center;
+	font-size: 50px;
+	
+}
+.imagen1{
+	width: 150px;
+	height: 180px;
+	
+	float: center;
+	align-content: center;
+	font-size: 50px;
+	display: block;
+	
+}
+button{
+	text-align: center;
+	background: blue;
+}
+
+
+}
+
+
+@media(min-width: 800px) and (max-width: 1199) {
+
+	h1{
+	text-align: center;
+	color: blue;
+
+}
+#cuerpo{
+	width: 1000px;
+	margin: 10px auto;
+	padding: 5px auto;
+	border:1;
+	color: blue;
+
+
+}
+
+#candidato{
+	font-variant-ligatures: cursive;
+	color: blue;
+	text-align:justify;
+	line-height: 1.5;
+
+}
+
+p{
+	font-variant-ligatures: cursive;
+	color: blue;
+
+}
+
+td{
+	
+	width: 200;
+
+}
+
+th{
+	font-variant-ligatures: cursive;
+	color: red;
+	text-align:center;
+	
+}
+
+
+
+#descipcion{
+	width: 500px;
+	margin: 2px auto;
+	padding: 2px auto;
+	float: center;
+	font-size: 50px;
+	
+}
+
+
+#contenido{
+	width: 1000px;
+	margin: 2px auto;
+	padding: 2px auto;
+	float: left;
+	color: blue;
+
+}
+
+#imagenaside{
+	width: 800px;
+	margin: 2px auto;
+	padding: 2px auto;
+	text-align: center;
+	float: center;
+
+
+}
+
+.imagen{
+	width: 800px;
+	margin: 2px auto;
+	padding: 2px auto;
+	float: center;
+	align-content: center;
+	font-size: 50px;
+	
+}
+button{
+	text-align: center;
+	background: blue;
+}
+
+
+}
+
+
+
+
+}
