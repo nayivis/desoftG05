@@ -1,2 +1,2 @@
 # desoftG05
-reposotorio de prueba para el grupo G05 de mision TIC 2022
+Reposotorio de prueba para el grupo G05 de mision TIC 2022
